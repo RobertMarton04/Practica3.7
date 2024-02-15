@@ -1,0 +1,61 @@
+header {
+    color: black;
+}
+
+
+
+.caja4 {
+    background-color: green;
+    width: 30%;
+    height: 620px;
+    display: block;
+    margin-block-end: auto;
+    margin-block-start: auto;
+}
+
+div.bloque3 {
+    background-color: lightblue;
+}
+
+.caja {
+    background-color: blue;
+    width: 30%;
+    height: 620px;
+    display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
+}
+.caja2 {
+    background-color: red;
+    width: 30%;
+    height: 620px;
+    display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
+}
+.caja3 {
+    background-color: yellow;
+    width: 30%;
+    height: 620px;
+    display: inline-block;
+    margin-block-end: auto;
+    margin-block-start: auto;
+}
+
+
+.blo{
+    width: 30%;
+}
+
+.linea{
+    display: inline;
+}
+p {
+    background-color: yellow;
+}
+
+
+
+.estudiar{
+    text-underline-offset: Cal estudiar;
+}
